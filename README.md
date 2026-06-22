@@ -10,9 +10,9 @@ Use Python 3.12.4. The project supports Python `>=3.11,<3.13`, but 3.12.4 is wha
 python -m pip install -r requirements.txt
 ```
 
-# Downloading the PredictiveGraphs dataset
+# Downloading the PredictiveGraphs point cloud dataset
 
-
+https://mega.nz/file/iGYgDBKB#UpkE228nfJge-_2SBamCqap4FxLAeo38ZEaGodPOlkE
 
 # Running it
 
